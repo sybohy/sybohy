@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Currently stitching the interface to the physical world at [Seam](https://getseam.com/).
+- :heart: to learn about computers.
+- Based in :bridge_at_night: 
+
 <!--
 **sybohy/sybohy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
